@@ -1,6 +1,8 @@
-# Experiment with the PixiJS Creation Engine
+# Experiment with the PixiJS Creation Engine (JavaScript)
 
-I am learning [PixiJS](https://pixijs.com/) in this project.
+This project shows basic steps with [PixiJS](https://pixijs.com/) in JavaScript.
+
+See also: [experiment-with-pixijs-react](https://github.com/wonderbird/experiment-with-pixijs-react)
 
 ## Thanks
 
